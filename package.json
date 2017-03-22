@@ -1,0 +1,11 @@
+{
+  "name": "redux-migrate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "redux": "^3.6.0",
+    "redux-persist": "^4.5.0",
+    "redux-persist-migrate": "^4.0.1"
+  }
+}
