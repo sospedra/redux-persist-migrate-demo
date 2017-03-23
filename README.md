@@ -1,6 +1,6 @@
 # redux-persist-migrate-demo
 
-A redux-persist-migrate show off
+A [redux-persist-migrate](https://github.com/wildlifela/redux-persist-migrate) show off
 
 ## Install
 
